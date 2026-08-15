@@ -1,6 +1,9 @@
 # Matrix-Driven Quartic Overhauser (QOVR) Surfaces Structural Framework: Continuity Limitations, Computer Graphics Algorithms, and Software Implementation 
 ### Supplementary Material: Official MATLAB Source Code and Dataset Repository
 
+* Preprint (arXiv): https://arxiv.org/abs/2608.12697v1
+* Status: Currently under review.
+
 ## Directory Contents
 * data/QOVR_S_Ctrl_Pts_v*.xlsx: Dataset for selected internal parametric knots exported from the framework.
 * src/QOVR_S_Ctrl_Pts_v*.m:  Surface visualization script.
