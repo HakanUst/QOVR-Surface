@@ -2,7 +2,8 @@
 ### Supplementary Material: Official MATLAB Source Code and Dataset Repository
 
 * Preprint (arXiv): https://arxiv.org/abs/2608.12697v1
-* Status: Currently under review.
+* Status: Published.
+* Üstünel, H. (2026). Matrix-Driven Quartic Overhauser (QOVR) Surface Structural Framework: Continuity Limitations, Computer Graphics Algorithms, and Software Implementation. Symmetry, 18(10), 1723. https://doi.org/10.3390/sym18101723 
 
 ## Directory Contents
 * data/QOVR_S_Ctrl_Pts_v*.xlsx: Dataset for selected internal parametric knots exported from the framework.
