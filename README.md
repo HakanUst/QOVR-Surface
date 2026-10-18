@@ -1,4 +1,4 @@
-# Matrix-Driven Quartic Overhauser (QOVR) Surfaces Structural Framework: Continuity Limitations, Computer Graphics Algorithms, and Software Implementation 
+# Matrix-Driven Quartic Overhauser (QOVR) Surface Structural Framework: Continuity Limitations, Computer Graphics Algorithms, and Software Implementation 
 ### Supplementary Material: Official MATLAB Source Code and Dataset Repository
 
 * Preprint (arXiv): https://arxiv.org/abs/2608.12697v1
