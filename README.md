@@ -17,4 +17,4 @@
 NOTE:
 * When you click the "Run" button in MATLAB, a pop-up window may appear stating "File is not in the current directory". 
 * You can click the "Change Folder" button.
-* This ensures that MATLAB automatically syncs its working directory with the folder containing "*.xlsx", preventing any "File not found" execution errors.
+* This ensures that MATLAB syncs its working directory with the folder containing "*.xlsx", preventing any "File not found" execution errors.
